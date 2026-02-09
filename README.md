@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Paul Subarna
 
-<!--
-**paulsubarna/paulsubarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Machine Learning | GenAI | Full-Stack Curious
 
-Here are some ideas to get you started:
+I build intelligent systems that can adapt sequentially with forgetting old experiences, experiment with modern ML architectures, and enjoy turning complex ideas into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently working on adapting LLM/VLMs models on a sequence of data with a Bayesian optimizer.   
+- 🌱 I’m learning Typescript, Next.js & Cloud deployments  
+- 💬 Ask me about ML, GenAI, Python, PyTorch  
+- 📝 I write code that solves real problems
+
+---
+
+## 💼 Featured Projects
+
+- 🔭 Currently working on **adapting LLM/VLM models to sequential data** using **Bayesian optimization**
+- 🌱 Learning **TypeScript, Next.js, and Cloud deployments**
+- 💬 Ask me about **Machine Learning, Generative AI, Python, PyTorch**
+- 📝 I write code that **solves real-world problems**
+
+---
+## 🧪 Interests & Focus Areas
+
+- 🤖 Large Language Models (LLMs) & Vision-Language Models (VLMs)
+- 📈 Bayesian Optimization & Probabilistic Modeling
+- 🧠 Scaling Continual Learning for complex real world use cases. 
+- ⚙️ End-to-End ML Systems
+- ☁️ Cloud-ready ML & Web Applications
+
+---
+
+## 🛠 Tech Stack
+
+**ML / AI**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-000000?style=flat)
+
+**Web / Systems**
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+## 📌 Featured Work
+
+## 📊 GitHub Stats
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsubarna&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to collaboration on **ML / GenAI projects**
+- 🧠 Interested in **research-driven engineering**
+- 🌍 Always curious about real-world impact
+
+> *“Strong models matter. Strong Continual systems matter more.”*
