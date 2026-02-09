@@ -50,10 +50,11 @@ I build intelligent systems that can adapt sequentially with forgetting old expe
 ---
 
 ## 📌 Featured Work
+⬆️ Check out the pinned repositories above for my latest work in:
+- VM/VLM adaptation on sequential data using partial inputs
+- Continual Federated System with Masked Autoencoders
+- Contextualizing LLMs on semantically evolving English words across centuries
 
-## 📊 GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulsubarna&show_icons=true&theme=radical)
 
 ---
 
