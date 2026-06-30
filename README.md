@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Subarna
+# 👋 Hi, I'm Paul Subarnaduti
 
 ### 🧠 Machine Learning | GenAI | Full-Stack Curious
 
